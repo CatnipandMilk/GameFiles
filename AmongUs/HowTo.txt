@@ -1,0 +1,17 @@
+▄▀█ █▀▄▀█ █▀█ █▄░█ █▀▀   █░█ █▀   █▀ ▀█▀ █▀█ █▀█ █▀▀   █░█ █▄░█ █░░ █▀█ █▀▀ █▄▀ █▀▀ █▀█
+█▀█ █░▀░█ █▄█ █░▀█ █▄█   █▄█ ▄█   ▄█ ░█░ █▄█ █▀▄ ██▄   █▄█ █░▀█ █▄▄ █▄█ █▄▄ █░█ ██▄ █▀▄
+
+
+Drag and drop the version.dll into the Among Us game folder. As long as it is there, your store will have everything unlocked and already purchased.
+
+To find the game folder from Steam, go to your Library, right-click the game, click properties and browse local files.
+
+The default install path for Steam is: C:\Program Files (x86)\Steam\steamapps\common
+
+
+█▀▀ █ █▄░█ █▀▄   █▀▄▀█ █▀█ █▀█ █▀▀   ▄▀█ ▀█▀
+█▀░ █ █░▀█ █▄▀   █░▀░█ █▄█ █▀▄ ██▄   █▀█ ░█░
+
+█▀▀ ▄▀█ ▀█▀ █▄░█ █ █▀█ ▄▀█ █▄░█ █▀▄ █▀▄▀█ █ █░░ █▄▀ ░ █▀▀ █▀█ █▀▄▀█
+█▄▄ █▀█ ░█░ █░▀█ █ █▀▀ █▀█ █░▀█ █▄▀ █░▀░█ █ █▄▄ █░█ ▄ █▄▄ █▄█ █░▀░█
+
